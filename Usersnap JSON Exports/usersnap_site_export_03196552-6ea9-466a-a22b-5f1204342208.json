@@ -1,0 +1,4047 @@
+{
+    "created_at": "2024-02-02T16:19:01.414114Z",
+    "site_id": "03196552-6ea9-466a-a22b-5f1204342208",
+    "api_key": "ed6b7a3d-909c-4153-8486-8969254d385a",
+    "name": "Friends & Family Survey",
+    "feedbacks": [
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-13T16:10:17.280667Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0",
+                    "screen_width": 1098,
+                    "screen_height": 618,
+                    "browser": "Edge (Chromium) 121 (Windows 10)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "visitor": {
+                    "email": "seymour.adler@kincentric.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 20,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "21+",
+                    "value": "21+",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Doctorate",
+                    "value": "Doctorate",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 5,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "I would like to include more than 3 achievements in this section.",
+                    "value": "I would like to include more than 3 achievements in this section.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The number of skills I could select and the skills provided were excellent.",
+                    "value": "The number of skills I could select and the skills provided were excellent.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Easy",
+                    "value": "2 - Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Edit the resume generated",
+                    "value": "Edit the resume generated",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Well done--would love to redo loading my resume instead of entering information.\n",
+                    "value": "Well done--would love to redo loading my resume instead of entering information.\n",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-13T07:03:48.746537Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
+                    "screen_width": 1680,
+                    "screen_height": 1050,
+                    "browser": "Chrome 116 (macOS Catalina)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "visitor": {
+                    "email": "bellavia.mike@gmail.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 19,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "35-44",
+                    "value": "35-44",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "16-20",
+                    "value": "16-20",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Unemployed and looking for work",
+                    "value": "Unemployed and looking for work",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Bachelor's degree",
+                    "value": "Bachelor's degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Is there anything missing on the resume generated by our service that you would expect?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Area for time off or career breaks: sabbatical, care giving, etc. ",
+                    "value": "Area for time off or career breaks: sabbatical, care giving, etc. ",
+                    "field_type": "text"
+                },
+                {
+                    "order": 5,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section didn\u2019t clearly represent what I want to do next in my career.",
+                    "value": "The Objective section didn\u2019t clearly represent what I want to do next in my career.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section wasn\u2019t written in a compelling way.",
+                    "value": "The Professional Experience section wasn\u2019t written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "I did not see the right skills listed for the job description I provided. ",
+                    "value": "I did not see the right skills listed for the job description I provided. ",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Poor",
+                    "value": "2 - Poor",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Not Helpful",
+                    "value": "2 - Not Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Not Helpful",
+                    "value": "2 - Not Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Easy",
+                    "value": "2 - Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 23,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Create another asset (i.e. resume, cover letter, LinkedIn bio)",
+                    "value": "Create another asset (i.e. resume, cover letter, LinkedIn bio)",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 24,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Overall ease of use is good, but I uploaded a pretty comprehensively built resume that just needed a little tailoring to the job description that was loaded, and my resume came out quite a bit more fragmented and frankly a lot weaker looking in the \"professional experience\" area. The Key achievements section is a nice feature, and I feel like it pulled 3 good examples with good descriptions. I plan on testing this out a few more times, but overall, I think it needs a little bit more work before prime time use with experienced professionals. ",
+                    "value": "Overall ease of use is good, but I uploaded a pretty comprehensively built resume that just needed a little tailoring to the job description that was loaded, and my resume came out quite a bit more fragmented and frankly a lot weaker looking in the \"professional experience\" area. The Key achievements section is a nice feature, and I feel like it pulled 3 good examples with good descriptions. I plan on testing this out a few more times, but overall, I think it needs a little bit more work before prime time use with experienced professionals. ",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-12T23:53:29.767907Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+                    "screen_width": 2560,
+                    "screen_height": 1440,
+                    "browser": "Chrome 121 (macOS Catalina)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "visitor": {
+                    "email": "sara@saramurray.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 18,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "35-44",
+                    "value": "35-44",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "16-20",
+                    "value": "16-20",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Self-employed",
+                    "value": "Self-employed",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Bachelor's degree",
+                    "value": "Bachelor's degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Is there anything missing on the resume generated by our service that you would expect?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "My biggest piece of feedback would be, it'd be great to have the document also download as a word document. I like how it's structured, but I would possibly want to make adjustments, add/delete certain items.  Also, the way the skills are formatting on the resume I downloaded, with 16 skills, one column has an extra line. I'd suggest making it 15 skills so there's 3 columns of 5 skills each as opposed to one column having 6. ",
+                    "value": "My biggest piece of feedback would be, it'd be great to have the document also download as a word document. I like how it's structured, but I would possibly want to make adjustments, add/delete certain items.  Also, the way the skills are formatting on the resume I downloaded, with 16 skills, one column has an extra line. I'd suggest making it 15 skills so there's 3 columns of 5 skills each as opposed to one column having 6. ",
+                    "field_type": "text"
+                },
+                {
+                    "order": 5,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "I don\u2019t need an Objective section for my industry.",
+                    "value": "I don\u2019t need an Objective section for my industry.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section didn\u2019t accurately reflect my accomplishments. ",
+                    "value": "The Professional Experience section didn\u2019t accurately reflect my accomplishments. ",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The number of skills I could select and the skills provided were excellent.",
+                    "value": "The number of skills I could select and the skills provided were excellent.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1 - Very Easy",
+                    "value": "1 - Very Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 23,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Edit the resume generated",
+                    "value": "Edit the resume generated",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 24,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The feedback results for the personality portion was SPOT ON.. I like that you include a link to share the profile, but maybe instead of the entire thing, it just shares the circle with wedges of personality traits. (And maybe the section that says what type of roles I'd be good at. It was so accurate.) \nI could see this being something people share the results on their linkedin or social media and it sparks interest for people to see what their results would be. I don't think it needs to include the whole report. \n\nI like the AI Generated Prompts for the Resume. \n\nI did encounter two technical glitches:\n\n1. After my assessment, when I entered my email and created a password, the next screen was waiting for a verification code. I did not receive one via e-mail. I clicked resend code, I checked spam, I waited, I did not receive. I took it again and the second time I signed in with a social account (gmail) and it worked. \n\n2. When I was entering my address, there were some fields not required (street address and zip code.) I entered all fields except those and it wouldn't let me continue. A red message \"Error while saving your contact details.\" When I entered the street address and zip code, it allowed me to continue. ",
+                    "value": "The feedback results for the personality portion was SPOT ON.. I like that you include a link to share the profile, but maybe instead of the entire thing, it just shares the circle with wedges of personality traits. (And maybe the section that says what type of roles I'd be good at. It was so accurate.) \nI could see this being something people share the results on their linkedin or social media and it sparks interest for people to see what their results would be. I don't think it needs to include the whole report. \n\nI like the AI Generated Prompts for the Resume. \n\nI did encounter two technical glitches:\n\n1. After my assessment, when I entered my email and created a password, the next screen was waiting for a verification code. I did not receive one via e-mail. I clicked resend code, I checked spam, I waited, I did not receive. I took it again and the second time I signed in with a social account (gmail) and it worked. \n\n2. When I was entering my address, there were some fields not required (street address and zip code.) I entered all fields except those and it wouldn't let me continue. A red message \"Error while saving your contact details.\" When I entered the street address and zip code, it allowed me to continue. ",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-12T22:44:44.186241Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+                    "screen_width": 1512,
+                    "screen_height": 982,
+                    "browser": "Chrome 121 (macOS Catalina)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "visitor": {
+                    "email": "tati@donnabags.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 17,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "35-44",
+                    "value": "35-44",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "11-15",
+                    "value": "11-15",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Unemployed and not looking for work",
+                    "value": "Unemployed and not looking for work",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Bachelor's degree",
+                    "value": "Bachelor's degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Is there anything missing on the resume generated by our service that you would expect?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Maybe photo",
+                    "value": "Maybe photo",
+                    "field_type": "text"
+                },
+                {
+                    "order": 5,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The number of skills I could select and the skills provided were excellent.",
+                    "value": "The number of skills I could select and the skills provided were excellent.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1 - Very Easy",
+                    "value": "1 - Very Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 23,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Use the generated resume to apply for a job",
+                    "value": "Use the generated resume to apply for a job",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 24,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "I'm highly impressed with the resume generator's ease of use and usefulness. It accurately reflects my personality traits and skills.",
+                    "value": "I'm highly impressed with the resume generator's ease of use and usefulness. It accurately reflects my personality traits and skills.",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-12T21:38:49.936365Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+                    "screen_width": 2048,
+                    "screen_height": 1152,
+                    "browser": "Chrome 118 (Windows 10)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 16,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "45-54",
+                    "value": "45-54",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "21+",
+                    "value": "21+",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Full-time",
+                    "value": "Full-time",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Bachelor's degree",
+                    "value": "Bachelor's degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 5,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The number of skills I could select and the skills provided were excellent.",
+                    "value": "The number of skills I could select and the skills provided were excellent.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Very Difficult",
+                    "value": "5 - Very Difficult",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "I am not looking for a job but liked how this helped to structure if I was.  I am saving the resume it created and will use it again when looking for a new position.  ",
+                    "value": "I am not looking for a job but liked how this helped to structure if I was.  I am saving the resume it created and will use it again when looking for a new position.  ",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-12T21:28:18.539179Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepathqa.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15",
+                    "screen_width": 1920,
+                    "screen_height": 1080,
+                    "browser": "Safari 17 (macOS Catalina)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "visitor": {
+                    "email": "sanhalt@netzero.net"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 15,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "45-54",
+                    "value": "45-54",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "21+",
+                    "value": "21+",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Full-time",
+                    "value": "Full-time",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Professional Degree",
+                    "value": "Professional Degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Is there anything missing on the resume generated by our service that you would expect?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Two sections were omitted from the resume I uploaded, and I expected all of the information from my resume to be used.",
+                    "value": "Two sections were omitted from the resume I uploaded, and I expected all of the information from my resume to be used.",
+                    "field_type": "text"
+                },
+                {
+                    "order": 5,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Poor",
+                    "value": "2 - Poor",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section didn\u2019t clearly represent what I want to do next in my career.",
+                    "value": "The Objective section didn\u2019t clearly represent what I want to do next in my career.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section didn\u2019t accurately reflect my accomplishments. ",
+                    "value": "The Key Achievements section didn\u2019t accurately reflect my accomplishments. ",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section didn\u2019t accurately reflect my accomplishments. ",
+                    "value": "The Professional Experience section didn\u2019t accurately reflect my accomplishments. ",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The number of skills I could select and the skills provided were excellent.",
+                    "value": "The number of skills I could select and the skills provided were excellent.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - Neither helpful or not helpful",
+                    "value": "3 - Neither helpful or not helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - Neither helpful or not helpful",
+                    "value": "3 - Neither helpful or not helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Not Helpful",
+                    "value": "2 - Not Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1 - Very Easy",
+                    "value": "1 - Very Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 23,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Create another asset (i.e. resume, cover letter, LinkedIn bio)",
+                    "value": "Create another asset (i.e. resume, cover letter, LinkedIn bio)",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 24,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1) It was a good starting point of a resume and cover letter, but it would be helpful to have it generated as a WORD document so that it is easily editable. 2) The resume builder seemed to disregard a lot of information in the resume I uploaded. It would be helpful to have a choice to keep most of my resume in tact but change the wording to better suit my personality traits. 3) It would be helpful to have the option to develop a resume that highlighted certain traits more than others -- e.g., to have the option to toggle through the Big 5 and ask the resume to focus on one (or more) traits more than the others.",
+                    "value": "1) It was a good starting point of a resume and cover letter, but it would be helpful to have it generated as a WORD document so that it is easily editable. 2) The resume builder seemed to disregard a lot of information in the resume I uploaded. It would be helpful to have a choice to keep most of my resume in tact but change the wording to better suit my personality traits. 3) It would be helpful to have the option to develop a resume that highlighted certain traits more than others -- e.g., to have the option to toggle through the Big 5 and ask the resume to focus on one (or more) traits more than the others.",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-12T21:22:05.550012Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0",
+                    "screen_width": 1440,
+                    "screen_height": 900,
+                    "browser": "Firefox 122 (macOS Catalina)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "visitor": {
+                    "email": "rcooley81@gmail.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 14,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "35-44",
+                    "value": "35-44",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "16-20",
+                    "value": "16-20",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Full-time",
+                    "value": "Full-time",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Master's degree",
+                    "value": "Master's degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 5,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section didn\u2019t accurately reflect my personality.",
+                    "value": "The Objective section didn\u2019t accurately reflect my personality.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The number of skills I could select and the skills provided were excellent.",
+                    "value": "The number of skills I could select and the skills provided were excellent.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1 - Very Easy",
+                    "value": "1 - Very Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Edit the resume generated",
+                    "value": "Edit the resume generated",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "For some reason the skills listed from my resume upload were each repeated 3x, leading to 56 skills that I had to delete down to 16. I'm curious how the metrics were created on accomplishments, I'm not sure they are accurate. ",
+                    "value": "For some reason the skills listed from my resume upload were each repeated 3x, leading to 56 skills that I had to delete down to 16. I'm curious how the metrics were created on accomplishments, I'm not sure they are accurate. ",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-12T13:20:10.075573Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+                    "screen_width": 2048,
+                    "screen_height": 1152,
+                    "browser": "Chrome 121 (Windows 10)"
+                },
+                "geo": {
+                    "country_iso": "GR"
+                },
+                "visitor": {
+                    "email": "ocyan.design@gmail.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 13,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "35-44",
+                    "value": "35-44",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "11-15",
+                    "value": "11-15",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Self-employed",
+                    "value": "Self-employed",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Bachelor's degree",
+                    "value": "Bachelor's degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 5,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The number of skills I could select and the skills provided were excellent.",
+                    "value": "The number of skills I could select and the skills provided were excellent.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1 - Very Easy",
+                    "value": "1 - Very Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "I would not continue using Truepath.ai",
+                    "value": "I would not continue using Truepath.ai",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 23,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "no",
+                    "value": "no",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-12T02:42:11.336236Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+                    "screen_width": 1920,
+                    "screen_height": 1080,
+                    "browser": "Chrome 121 (macOS Catalina)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "visitor": {
+                    "email": "alisonanziska@gmail.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 12,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "35-44",
+                    "value": "35-44",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "16-20",
+                    "value": "16-20",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Full-time",
+                    "value": "Full-time",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Bachelor's degree",
+                    "value": "Bachelor's degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 5,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "I want to add more context to the skills listed on the resume.",
+                    "value": "I want to add more context to the skills listed on the resume.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - Neither helpful or not helpful",
+                    "value": "3 - Neither helpful or not helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Easy",
+                    "value": "2 - Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Create another asset (i.e. resume, cover letter, LinkedIn bio)",
+                    "value": "Create another asset (i.e. resume, cover letter, LinkedIn bio)",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 23,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "make it possible to add a photo to my resume",
+                    "value": "make it possible to add a photo to my resume",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-10T20:57:01.737061Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+                    "screen_width": 1680,
+                    "screen_height": 1050,
+                    "browser": "Chrome 121 (macOS Catalina)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "visitor": {
+                    "email": "dcreechan@gmail.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 11,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "45-54",
+                    "value": "45-54",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "16-20",
+                    "value": "16-20",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Unemployed and looking for work",
+                    "value": "Unemployed and looking for work",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Bachelor's degree",
+                    "value": "Bachelor's degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 5,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The number of skills I could select and the skills provided were excellent.",
+                    "value": "The number of skills I could select and the skills provided were excellent.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1 - Very Easy",
+                    "value": "1 - Very Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Edit the resume generated",
+                    "value": "Edit the resume generated",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 23,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Still assessing, will provide more feedback when done",
+                    "value": "Still assessing, will provide more feedback when done",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-09T18:15:40.034353Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+                    "screen_width": 1920,
+                    "screen_height": 1080,
+                    "browser": "Chrome 121 (Windows 10)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "visitor": {
+                    "email": "brich8@gmail.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 10,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "35-44",
+                    "value": "35-44",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "11-15",
+                    "value": "11-15",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Full-time",
+                    "value": "Full-time",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Bachelor's degree",
+                    "value": "Bachelor's degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 5,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The number of skills I could select and the skills provided were excellent.",
+                    "value": "The number of skills I could select and the skills provided were excellent.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Easy",
+                    "value": "2 - Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Create another asset (i.e. resume, cover letter, LinkedIn bio)",
+                    "value": "Create another asset (i.e. resume, cover letter, LinkedIn bio)",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 23,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "not at this time",
+                    "value": "not at this time",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-09T05:56:36.221664Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+                    "screen_width": 1512,
+                    "screen_height": 982,
+                    "browser": "Chrome 121 (macOS Catalina)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "visitor": {
+                    "email": "kvensel90@gmail.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 9,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "55-64",
+                    "value": "55-64",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "21+",
+                    "value": "21+",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Full-time",
+                    "value": "Full-time",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Bachelor's degree",
+                    "value": "Bachelor's degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Is there anything missing on the resume generated by our service that you would expect?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Product Managemet",
+                    "value": "Product Managemet",
+                    "field_type": "text"
+                },
+                {
+                    "order": 5,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section didn\u2019t accurately reflect my personality.",
+                    "value": "The Objective section didn\u2019t accurately reflect my personality.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "I want to add more than 16 skills.",
+                    "value": "I want to add more than 16 skills.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Poor",
+                    "value": "2 - Poor",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - Neither helpful or not helpful",
+                    "value": "3 - Neither helpful or not helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - Neither helpful or not helpful",
+                    "value": "3 - Neither helpful or not helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1 - Not Helpful at All",
+                    "value": "1 - Not Helpful at All",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - Neither helpful or not helpful",
+                    "value": "3 - Neither helpful or not helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1 - Very Easy",
+                    "value": "1 - Very Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 23,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Use the generated resume to apply for a job",
+                    "value": "Use the generated resume to apply for a job",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 24,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": ",m , ",
+                    "value": ",m , ",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-09T01:32:34.907625Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard",
+                    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/121.0.6167.138 Mobile/15E148 Safari/604.1",
+                    "screen_width": 390,
+                    "screen_height": 844,
+                    "browser": "ChromeiOS 121 (iOS)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 8,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "45-54",
+                    "value": "45-54",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "21+",
+                    "value": "21+",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Unemployed and looking for work",
+                    "value": "Unemployed and looking for work",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Master's degree",
+                    "value": "Master's degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": " Haven\u2019t received my resume yet ",
+                    "value": " Haven\u2019t received my resume yet ",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-09T00:07:12.102734Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepath.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0",
+                    "screen_width": 2560,
+                    "screen_height": 1080,
+                    "browser": "Opera 106 (Windows 10)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "visitor": {
+                    "email": "smossayeb@gmail.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 7,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "45-54",
+                    "value": "45-54",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "16-20",
+                    "value": "16-20",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Full-time",
+                    "value": "Full-time",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Doctorate",
+                    "value": "Doctorate",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Is there anything missing on the resume generated by our service that you would expect?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "link to portfolio",
+                    "value": "link to portfolio",
+                    "field_type": "text"
+                },
+                {
+                    "order": 5,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "I don\u2019t need an Objective section for my industry.",
+                    "value": "I don\u2019t need an Objective section for my industry.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "I want to add more than 16 skills.",
+                    "value": "I want to add more than 16 skills.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1 - Not Helpful at All",
+                    "value": "1 - Not Helpful at All",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1 - Very Easy",
+                    "value": "1 - Very Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 23,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Use the generated resume to apply for a job",
+                    "value": "Use the generated resume to apply for a job",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 24,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Results landing page\n - there were two CTAs (create resume and click here); competing hierarchy\n- not clear i could continue scrolling down (easy fix - arrow pointing down)\n- the entry level tag felt unnessessary\n- instead of copy / pasting job post, can i use linked in post hyperlink\n- loading is WAY too long; i almost refreshed it. I think having a changing tips will help while loading\n- spent a lot of time unchecking skills not sure why\n- the X should be before the text on the skills.\n\n",
+                    "value": "Results landing page\n - there were two CTAs (create resume and click here); competing hierarchy\n- not clear i could continue scrolling down (easy fix - arrow pointing down)\n- the entry level tag felt unnessessary\n- instead of copy / pasting job post, can i use linked in post hyperlink\n- loading is WAY too long; i almost refreshed it. I think having a changing tips will help while loading\n- spent a lot of time unchecking skills not sure why\n- the X should be before the text on the skills.\n\n",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-08T02:28:08.291320Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepathqa.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+                    "screen_width": 1536,
+                    "screen_height": 864,
+                    "browser": "Chrome 121 (Windows 10)"
+                },
+                "geo": {
+                    "country_iso": "CR"
+                },
+                "visitor": {
+                    "email": "test158@test.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 6,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "18-24",
+                    "value": "18-24",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "6-10",
+                    "value": "6-10",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Unemployed and not looking for work",
+                    "value": "Unemployed and not looking for work",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "High school graduate or equivalent",
+                    "value": "High school graduate or equivalent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Is there anything missing on the resume generated by our service that you would expect?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "test",
+                    "value": "test",
+                    "field_type": "text"
+                },
+                {
+                    "order": 5,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "3 - OK",
+                    "value": "3 - OK",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Relevance and presentation of the Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Poor",
+                    "value": "2 - Poor",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section didn\u2019t clearly represent what I want to do next in my career.",
+                    "value": "The Objective section didn\u2019t clearly represent what I want to do next in my career.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section didn\u2019t accurately reflect my accomplishments. ",
+                    "value": "The Key Achievements section didn\u2019t accurately reflect my accomplishments. ",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "I didn\u2019t like or understand how my personality was incorporated into the Professional Experience section.",
+                    "value": "I didn\u2019t like or understand how my personality was incorporated into the Professional Experience section.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "I want to add more context to the skills listed on the resume.",
+                    "value": "I want to add more context to the skills listed on the resume.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1 - Very Poor",
+                    "value": "1 - Very Poor",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Poor",
+                    "value": "2 - Poor",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "2 - Not Helpful",
+                    "value": "2 - Not Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Helpful",
+                    "value": "4 - Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Very Difficult",
+                    "value": "5 - Very Difficult",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Use the generated resume to apply for a job",
+                    "value": "Use the generated resume to apply for a job",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 23,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "test",
+                    "value": "test",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-06T04:39:15.175329Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepathqa.ai/dashboard",
+                    "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",
+                    "screen_width": 384,
+                    "screen_height": 854,
+                    "browser": "Chrome 121 (Android 10)"
+                },
+                "geo": {
+                    "country_iso": "CR"
+                },
+                "visitor": {
+                    "email": "true@maildrop.cc"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 5,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Professional Degree",
+                    "value": "Professional Degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "7uh",
+                    "value": "7uh",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-06T04:38:37.636190Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepathqa.ai/dashboard",
+                    "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36",
+                    "screen_width": 384,
+                    "screen_height": 854,
+                    "browser": "Chrome 121 (Android 10)"
+                },
+                "geo": {
+                    "country_iso": "CR"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 4,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Professional Degree",
+                    "value": "Professional Degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "yyjhg",
+                    "value": "yyjhg",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-05T16:07:18.852597Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepathqa.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+                    "screen_width": 1536,
+                    "screen_height": 864,
+                    "browser": "Chrome 121 (Windows 10)"
+                },
+                "geo": {
+                    "country_iso": "CR"
+                },
+                "visitor": {
+                    "email": "marco+20@truepath.ai"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 3,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Trade / technical / vocational training",
+                    "value": "Trade / technical / vocational training",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "a",
+                    "value": "a",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": null,
+            "comments": [],
+            "created_at": "2024-02-02T20:57:26.552954Z",
+            "datapoints": {
+                "client": {
+                    "url": "https://my.truepathqa.ai/dashboard?tab=documents",
+                    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "screen_width": 2560,
+                    "screen_height": 1440,
+                    "browser": "Chrome 120 (macOS Catalina)"
+                },
+                "geo": {
+                    "country_iso": "US"
+                },
+                "visitor": {
+                    "email": "test@hello.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 2,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Age",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "35-44",
+                    "value": "35-44",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 1,
+                    "label": "Years of professional experience",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "11-15",
+                    "value": "11-15",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 2,
+                    "label": "Employment status",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Full-time",
+                    "value": "Full-time",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 3,
+                    "label": "Education level",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Master's degree",
+                    "value": "Master's degree",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 4,
+                    "label": "Is there anything missing on the resume generated by our service that you would expect?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Nope, love it! ",
+                    "value": "Nope, love it! ",
+                    "field_type": "text"
+                },
+                {
+                    "order": 5,
+                    "label": "Overall quality of the resume",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 6,
+                    "label": "Alignment with career objectives and job search goals",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 7,
+                    "label": "Accuracy in reflecting your personality",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 8,
+                    "label": "Quality of the Objective section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 9,
+                    "label": "Relevance and accuracy of the Key Achievements section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 10,
+                    "label": "Accuracy and depth of the Professional Experience section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 11,
+                    "label": "Relevance and presentation of Skills section",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 12,
+                    "label": "Thinking about the Objective section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "value": "The Objective section clearly represented what I want to do next in my career and my personality.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 13,
+                    "label": "Thinking about the Key Achievements section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Key Achievements section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 14,
+                    "label": "Thinking about the Professional Experience section of the resume, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "value": "The Professional Experience section clearly represented my accomplishments, represented my personality, and was written in a compelling way.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 15,
+                    "label": "Thinking about the relevance and presentation of Skills, which response most accurately represents your thoughts?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "The number of skills I could select and the skills provided were excellent.",
+                    "value": "The number of skills I could select and the skills provided were excellent.",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 16,
+                    "label": "Assessment results",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Excellent",
+                    "value": "5 - Excellent",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 17,
+                    "label": "List of in-demand skills for your desired job",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "4 - Good",
+                    "value": "4 - Good",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 18,
+                    "label": "The ability to track your applications",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 19,
+                    "label": "Additional resume templates",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 20,
+                    "label": "Tailored job recommendations",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 21,
+                    "label": "The ability to apply for a job directly on our website",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "5 - Extremely Helpful",
+                    "value": "5 - Extremely Helpful",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 22,
+                    "label": "Please rate how easy it was to generate a resume on Truepath.ai on a scale of 1-5, where 1 is \u201cVery Easy\u201d and 5 is \u201cVery Difficult.\u201d",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "1 - Very Easy",
+                    "value": "1 - Very Easy",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 23,
+                    "label": "Having completed the experience and viewed the resume generated by our service, what action would you take next?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "Use the generated resume to apply for a job",
+                    "value": "Use the generated resume to apply for a job",
+                    "field_type": "poll"
+                },
+                {
+                    "order": 24,
+                    "label": "Is there any other feedback you would like to share?",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "YAY!",
+                    "value": "YAY!",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        },
+        {
+            "priority": null,
+            "assignee": "kyle@truepath.ai",
+            "comments": [
+                {
+                    "created_at": "2024-02-02T16:19:01.548074Z",
+                    "content": "Thanks a lot for your feedback. We will put this on our list of feature requests.",
+                    "comment_type": "EXTERNAL",
+                    "likes": 0,
+                    "email": "kyle@truepath.ai"
+                },
+                {
+                    "created_at": "2024-02-02T16:19:01.737169Z",
+                    "content": "Will put this on the list of feature requests.",
+                    "comment_type": "INTERNAL",
+                    "likes": 0,
+                    "email": "kyle@truepath.ai"
+                }
+            ],
+            "created_at": "2024-02-02T16:19:01.543655Z",
+            "datapoints": {
+                "custom": {
+                    "Internal UserID": "123",
+                    "Website version": "0.2"
+                },
+                "visitor": {
+                    "email": "someone@somewhere.com"
+                },
+                "state": {
+                    "identifier": "open"
+                }
+            },
+            "feedback_number": 1,
+            "fields": [
+                {
+                    "order": 0,
+                    "label": "Comment",
+                    "boolean_value": null,
+                    "array_value": null,
+                    "text_value": "[Sample Feedback] Missing feature",
+                    "value": "[Sample Feedback] Missing feature",
+                    "field_type": "textarea"
+                }
+            ],
+            "labels": [
+                "Improvement"
+            ],
+            "screenshot_comments": [],
+            "screen_recordings": [],
+            "votes": 0,
+            "likes": 0,
+            "done_at": null,
+            "rating": null
+        }
+    ]
+}
